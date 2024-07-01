@@ -14,7 +14,7 @@ with col1:
     st.image("./assets/profile_image.png", width=230)
 
 with col2:
-    st.title("John Doe", anchor=False)
+    st.title("Sven Bosau", anchor=False)
     st.write(
         "Senior Data Analyst, assisting enterprises by supporting data-driven decision-making."
     )
