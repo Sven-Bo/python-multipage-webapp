@@ -4,8 +4,8 @@ Build a multipage web application using only Python—no HTML, CSS, or JavaScrip
 .<br>
 👉 **Check out the live website here:** [LIVE WEBSITE](https://multipage-webapp.streamlit.app/)
 
-## Video Tutorial (Coming Soon)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/9n4Ch2Dgex0/0.jpg)](https://youtu.be/9n4Ch2Dgex0)
 
 ## Dashboard Demo
 ![WebApp Demo](assets/Demo.gif)
