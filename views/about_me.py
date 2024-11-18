@@ -16,7 +16,8 @@ with col1:
 with col2:
     st.title("Sven Bosau", anchor=False)
     st.write(
-        "Senior Data Analyst, assisting enterprises by supporting data-driven decision-making."
+        "Data Analyst 
+        assisting enterprises by supporting data-driven decision-making."
     )
     if st.button("✉️ Contact Me"):
         show_contact_form()
@@ -27,7 +28,7 @@ st.write("\n")
 st.subheader("Experience & Qualifications", anchor=False)
 st.write(
     """
-    - 7 Years experience extracting actionable insights from data
+    - 1 Years experience extracting actionable insights from data
     - Strong hands-on experience and knowledge in Python and Excel
     - Good understanding of statistical principles and their respective applications
     - Excellent team-player and displaying a strong sense of initiative on tasks
@@ -39,9 +40,9 @@ st.write("\n")
 st.subheader("Hard Skills", anchor=False)
 st.write(
     """
-    - Programming: Python (Scikit-learn, Pandas), SQL, VBA
+    - Programming: Python (Scikit-learn, Pandas), SQL
     - Data Visualization: PowerBi, MS Excel, Plotly
     - Modeling: Logistic regression, linear regression, decision trees
-    - Databases: Postgres, MongoDB, MySQL
+    - Databases: MySQL
     """
 )
